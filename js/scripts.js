@@ -6,6 +6,7 @@ const backgrounds = [
     'images/4lights.jpg'
 ];
 
+
 let currentBackgroundIndex = 0;
 
 function energize() {
