@@ -62,7 +62,7 @@ body {
 
 .button {
     position: relative;
-    width: 100%;
+    
 
 }
 
@@ -71,7 +71,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #000000;
     position: absolute;
-    bottom: 8px;
+    bottom: 80px;
     left: 50%;
     transform: translateX(-50%);
     
