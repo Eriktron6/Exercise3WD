@@ -74,4 +74,6 @@ body {
     bottom: 8px;
     left: 50%;
     transform: translateX(-50%);
+    font-size: 80vh;
+    padding: 4px;
 }
