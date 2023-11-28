@@ -62,7 +62,7 @@ body {
 
 .button {
     position: relative;
-    font-size: 80vh;
+    font-size: 10vh;
     padding: 4px;
 }
 
@@ -74,6 +74,6 @@ body {
     bottom: 8px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 80vh;
+    font-size: 10vh;
     padding: 4px;
 }
