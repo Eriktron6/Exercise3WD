@@ -62,8 +62,8 @@ body {
 
 .button {
     position: relative;
-  
-    
+
+
 }
 
 .button button {
@@ -74,9 +74,10 @@ body {
     bottom: 8px;
     left: 50%;
     transform: translateX(-50%);
-    
-    
+
+
 }
-.energize{
-font-size: 20px;
+
+.energize {
+    font-size: 20px;
 }
