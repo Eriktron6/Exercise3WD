@@ -62,8 +62,6 @@ body {
 
 .button {
     position: relative;
-    
-
 }
 
 .button button {
@@ -74,6 +72,5 @@ body {
     bottom: 80px;
     left: 50%;
     transform: translateX(-50%);
-    
 
 }
